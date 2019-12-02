@@ -1,0 +1,22 @@
+{
+  "name": "Main",
+  "version": "0.1.0",
+  "summary": "A short description of Main.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Haina/Main",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Haina": "18011452295@cnzhjk.com"
+  },
+  "source": {
+    "git": "https://github.com/Haina/Main.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Main/Classes/**/*"
+}
