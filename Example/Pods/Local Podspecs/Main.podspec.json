@@ -18,5 +18,10 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "Main/Classes/**/*"
+  "source_files": "Main/Classes/**/*",
+  "dependencies": {
+    "MJRefresh": [
+
+    ]
+  }
 }

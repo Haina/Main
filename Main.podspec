@@ -31,6 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'Main/Classes/**/*'
+  s.dependency 'MJRefresh'
   
   # s.resource_bundles = {
   #   'Main' => ['Main/Assets/*.png']
